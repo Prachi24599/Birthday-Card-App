@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/birthday3"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="0dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Happy Birthday Mom!"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="#523906"
+        android:paddingRight="50dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lots of Love!"
+        android:textColor="@android:color/darker_gray"
+        android:layout_alignParentRight="true"
+        android:layout_above="@id/from_id"
+        android:textSize="36sp"
+        android:fontFamily="cursive"
+        />
+
+    <TextView
+        android:id="@+id/from_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="From, Prachi!"
+        android:textColor="@android:color/white"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="30sp"
+        android:fontFamily="serif-monospace"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Here is the Birthday Cake for you!"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:fontFamily="serif-monospace"
+        android:layout_centerInParent="true"
+       android:width="200dp"
+        />
+</RelativeLayout>
