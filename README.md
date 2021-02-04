@@ -5,7 +5,7 @@ This is Simple Birthday Card App Which I have learned in the Udacity Android for
 ### Image
 _____
 ![rough_idea](https://user-images.githubusercontent.com/54476598/106884007-c820f580-6706-11eb-85d7-60620ef0754f.jpeg)
-![Birthday Card Ready](https://drive.google.com/file/d/11a1O6kn2CSHyKmZJpePGQboucJiDi7MN/view?usp=sharing)
+![birthday_card](https://user-images.githubusercontent.com/54476598/106884227-06b6b000-6707-11eb-87a3-a34c4b334a2a.jpeg)
 
 
 ### Pre-requisites
