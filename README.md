@@ -1,5 +1,5 @@
 # Birthday Card App
-_____
+
 This is Simple Birthday Card App Which I have learned in the Udacity Android for Beginners course
 
 ### Image
