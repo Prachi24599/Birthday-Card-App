@@ -4,7 +4,7 @@ This is Simple Birthday Card App Which I have learned in the Udacity Android for
 
 ### Image
 _____
-![Rough Layout](https://drive.google.com/file/d/11Dm2K0UUu3Pf91L_441_nBFd-juIsam7/view?usp=sharing)
+![rough_idea](https://user-images.githubusercontent.com/54476598/106884007-c820f580-6706-11eb-85d7-60620ef0754f.jpeg)
 ![Birthday Card Ready](https://drive.google.com/file/d/11a1O6kn2CSHyKmZJpePGQboucJiDi7MN/view?usp=sharing)
 
 
